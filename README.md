@@ -1,7 +1,8 @@
-# tashakim
-![](https://komarev.com/ghpvc/?username=tashakim)
 <!--
 **tashakim/tashakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Tasha's github stats](https://github-readme-stats.vercel.app/api?username=tashakim&theme=merko&hide_rank=false&hide_title=false&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/tashakim/github-readme-stats)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=puzzles_python&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=apertium-kor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 Here are some ideas to get you started:
 
@@ -14,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Tasha's github stats](https://github-readme-stats.vercel.app/api?username=tashakim&theme=merko&hide_rank=false&hide_title=false&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/tashakim/github-readme-stats)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=puzzles_python&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=apertium-kor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+![alt text](https://github.com/tashakim/tashakim/blob/master/banner-with-a-summer-look.png?raw=true)
