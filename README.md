@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tasha's github stats](https://github-readme-stats.vercel.app/api?username=tashakim&show_icons=true&theme=synthwave)](https://github.com/tashakim/github-readme-stats)
+[![Tasha's github stats](https://github-readme-stats.vercel.app/api?username=tashakim&show_icons=true&theme=merko)](https://github.com/tashakim/github-readme-stats)
