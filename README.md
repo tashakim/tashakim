@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, my name is Tasha
-![alt text](https://github.com/tashakim/tashakim/blob/master/banner-with-an-icy-feel.png?raw=true)
+![alt text](https://github.com/tashakim/tashakim/blob/banner_branch/banner-with-an-icy-feel.png?raw=true)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World...%20-40.8%20million%20Lines%20of%20code-blue)
