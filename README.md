@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/tashakim/tashakim/blob/master/banner-with-a-summer-look.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-40.8%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20-40.8%20million%20Lines%20of%20code-blue)
 
 **I'm an early 🐤** 
 
