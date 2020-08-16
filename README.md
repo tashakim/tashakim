@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-**I'm an early 🐤** 
+**I'm an early bird** 
 
 ```text
 🌞 Morning    144 commits    █████░░░░░░░░░░░░░░░░░░░░   20.48% 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 🌙 Night      76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81%
 
 ```
-📅 **I'm Most Productive on Wednesdays** 
+**I'm Most Productive on Wednesdays** 
 
 ```text
 Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
@@ -43,16 +43,10 @@ Sunday       94 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+**This week I spent my time in** 
 
 ```text
 ⌚︎ Timezone: Asia/Seoul
-
-💬 Languages: 
-No Activity tracked this Week
-
-🔥 Editors: 
-No Activity tracked this Week
 
 ```
 
