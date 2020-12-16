@@ -45,7 +45,7 @@ Sunday       94 commits     ███░░░░░░░░░░░░░░�
 **This week I spent my time in** 
 
 ```text
-⌚︎ Timezones: Asia/Seoul, North America/USA (EST)
+⌚︎ Timezones: North America/USA (EST)
 ```
 
 
