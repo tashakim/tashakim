@@ -6,7 +6,6 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=puzzles_python&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=apertium-kor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![alt text](https://github.com/tashakim/tashakim/blob/banner_branch/banner-with-an-icy-feel.png?raw=true)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!--START_SECTION:waka-->
 
 **I'm an early bird** 
@@ -50,3 +48,9 @@ Sunday       94 commits     ███░░░░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
+![Metrics](https://metrics.lecoq.io/tashakim?template=classic&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&stars=1&isocalendar.duration=full-year&stars.limit=4&config.timezone=America%2FNew_York)
+
+
+
