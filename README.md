@@ -50,7 +50,5 @@ Sunday       94 commits     ███░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-![Metrics](https://metrics.lecoq.io/tashakim?template=classic&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&stars=1&isocalendar.duration=full-year&stars.limit=4&config.timezone=America%2FNew_York)
-
 
 
